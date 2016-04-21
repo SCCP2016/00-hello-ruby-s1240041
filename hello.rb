@@ -1,1 +1,1 @@
-puts "Hello world"
+puts "See you afterlife."
